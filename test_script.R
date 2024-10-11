@@ -8,3 +8,5 @@ setwd("/Users/eamon/Library/Mobile Documents/com~apple~CloudDocs/Documents/Impor
 getwd()
 setwd("/Users/eamon/Library/Mobile Documents/com~apple~CloudDocs/Documents/Important/Academia/GLOFOR/AgroParisTech/Kourou/Linear Modelling/R Projects/test")
 testing test 
+
+new modification 
