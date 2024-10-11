@@ -9,6 +9,5 @@ getwd()
 setwd("/Users/eamon/Library/Mobile Documents/com~apple~CloudDocs/Documents/Important/Academia/GLOFOR/AgroParisTech/Kourou/Linear Modelling/R Projects/test")
 testing test 
 
-new modification 
-
+new modification now i am changing again this line
 
